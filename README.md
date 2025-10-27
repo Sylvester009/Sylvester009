@@ -44,14 +44,14 @@
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/ninestars/library-management-system">📚 Library Management System</a></h3>
+      <h3><a href="https://github.com/Sylvester009/library-management-system">📚 Library Management System</a></h3>
       <p>A full-stack application built with Flask and Next.js for managing books, members, and borrow records. Implements OOP, SOLID principles, and role-based authentication.</p>
       <p><strong>Tech Stack:</strong> Flask | Next.js | SQL | Docker</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/ninestars/basic-auth-flask">🔐 Basic Authentication API</a></h3>
+      <h3><a href="https://github.com/Sylvester009/basic-auth-flask">🔐 Basic Authentication API</a></h3>
       <p>A Flask-based API implementing Basic Authentication and secure user credential management — part of my ALX backend training.</p>
       <p><strong>Tech Stack:</strong> Python | Flask | REST API | SQLAlchemy</p>
     </td>
@@ -64,8 +64,8 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninestars&show_icons=true&theme=tokyonight" alt="ninestars stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninestars&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sylvester009&show_icons=true&theme=tokyonight" alt="ninestars stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sylvester009&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ninestars&theme=onedark&row=1&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sylvester009&theme=onedark&row=1&no-frame=true"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@
   <a href="mailto:samsylvester09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://ninestax-page.vercel.app" target="_blank">
+  <a href="https://ninestarx-page.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
