@@ -52,9 +52,10 @@ Unlike traditional job boards, Worknest ensures quality over quantity by priorit
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/Sylvester009/basic-auth-flask">🔐 Basic Authentication API</a></h3>
-      <p>A Flask-based API implementing Basic Authentication and secure user credential management — part of my ALX backend training.</p>
-      <p><strong>Tech Stack:</strong> Python | Flask | REST API | SQLAlchemy</p>
+      <h3><a href="https://github.com/Sylvester009/foodrestuarantapp"> Food Delivery App</a></h3>
+      <p>
+Responsive food delivery interface with restaurant listings, order tracking, and a smooth checkout flow to simulate a real-world delivery platform</p>
+      <p><strong>Tech Stack:</strong> React | Next Js | Firebase | MongoDB</p>
     </td>
   </tr>
 </table>
