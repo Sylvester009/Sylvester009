@@ -44,8 +44,9 @@
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/Sylvester009/library-management-system">📚 Library Management System</a></h3>
-      <p>A full-stack application built with Flask and Next.js for managing books, members, and borrow records. Implements OOP, SOLID principles, and role-based authentication.</p>
+      <h3><a href="https://github.com/Sylvester009/job-posting-app">📚 WorkNest</a></h3>
+      <p>Worknest is a modern job platform that bridges the gap between job seekers and recruiters.
+Unlike traditional job boards, Worknest ensures quality over quantity by prioritizing matching accuracy, accountability, and credibility on both sides.</p>
       <p><strong>Tech Stack:</strong> Flask | Next.js | SQL | Docker</p>
     </td>
   </tr>
