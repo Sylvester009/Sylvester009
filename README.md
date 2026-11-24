@@ -27,8 +27,8 @@ The first step. The art of bringing ideas to life through interfaces, and the st
 
 **A record of my work:**
 
-- [My Portfolio](https://9starxportfolio.vercel.app)
-- [Portfolio Repository](https://github.com/Sylvester009)
+- [My Portfolio](https://samuel-sylvester.vercel.app/)
+- [Portfolio Repository](https://github.com/Sylvester009/samuel-sylvester)
 
 [Frontend Roadmap](https://roadmap.sh/frontend)
 
